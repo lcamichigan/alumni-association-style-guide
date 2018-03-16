@@ -82,8 +82,8 @@ _Founders’ Day_.
 
 **Headquarters** Do not use. Use _International Headquarters_ instead.
 
-**High Zeta** Code IV-3 of ΛΧΑ’s Statutory Code defines the High Zeta to include
-the High Pi (alumni advisor) and the following elected officers, ranked
+**High Zeta** Code IV-3 of ΛΧΑ’s _Statutory Code_ defines the High Zeta to
+include the High Pi (alumni advisor) and the following elected officers, ranked
 according to Code IV-4:
 
 | Greek Title  | Corporate Title                                       |

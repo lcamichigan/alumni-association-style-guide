@@ -156,7 +156,7 @@ announced its partnership with [Feeding America](http://www.feedingamerica.org).
 **nonprofit** Not _non-profit_.
 
 **pledge** Do not use when referring to an uninitiated member of ΛΧΑ who joined
-in 1972 and later; use _associate member_.
+in 1972 or later; use _associate member_.
 
 **p.m.** Note lowercase and periods. However, when writing a time on a website
 that uses a different style, use the style of the website. For example,

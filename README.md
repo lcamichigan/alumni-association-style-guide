@@ -1,3 +1,5 @@
+# Sigma Alumni Association Style Guide
+
 **501(c)(7)** Refers to a
 [part of section 501(c)](https://en.wikipedia.org/wiki/501(c)_organization#501(c)(7))
 of the United States Internal Revenue Code that describes certain tax-exempt

@@ -28,8 +28,7 @@ _alum_ in formal writing.
 **AM** Do not use as an abbreviation of _associate member_.
 
 **a.m.** Note lowercase and periods. However, when writing a time on a website
-that uses a different style, use the style of the website. For example, write
-_11:00am_, not _11:00 a.m._, in Facebook and Squarespace event descriptions.
+that uses a different style, use the style of the website.
 
 **associate member** Refers to an uninitiated member of ΛΧΑ who joined in 1972
 or later. Before 1972, such members were referred to as _pledges_. Capitalize
@@ -159,8 +158,7 @@ announced its partnership with [Feeding America](http://www.feedingamerica.org).
 in 1972 or later; use _associate member_.
 
 **p.m.** Note lowercase and periods. However, when writing a time on a website
-that uses a different style, use the style of the website. For example,
-write _6:00pm_, not _6:00 p.m._, in Facebook and Squarespace event descriptions.
+that uses a different style, use the style of the website.
 
 **Rx** Do not use as an abbreviation of _Ritual_. Use _Initiation Ritual._
 

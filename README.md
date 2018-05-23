@@ -81,32 +81,33 @@ _Founders’ Day_.
 
 **Headquarters** Do not use. Use _International Headquarters_ instead.
 
-**High Zeta** Code IV-3 of ΛΧΑ’s _Statutory Code_ defines the High Zeta to
-include the High Pi (alumni advisor) and the following elected officers, ranked
-according to Code IV-4:
+**High Zeta** Code 3-1(a) of ΛΧΑ’s _Statutory Code_ (43rd edition) defines the
+High Zeta to include the High Pi (alumni advisor) and the following elected
+officers, ranked according to Code 3-1(a):
 
-| Greek Title  | Corporate Title                                       |
-|-------------:|-------------------------------------------------------|
-|   High Alpha | President                                             |
-|    High Beta | Vice President                                        |
-|   High Theta | Philanthropy Chairman (officially 2nd Vice President) |
-|   High Gamma | Secretary                                             |
-|     High Tau | Treasurer                                             |
-|    High Iota | Risk Manager                                          |
-|   High Kappa | Fraternity Educator                                   |
-|   High Delta | Recruitment Chairman                                  |
-|     High Phi | Ritualist                                             |
-|   High Sigma | Educational Chairman                                  |
-| High Epsilon | Social Chairman                                       |
-|     High Rho | Alumni Secretary                                      |
+| Greek Title  | Corporate Title                                            |
+|-------------:|------------------------------------------------------------|
+|   High Alpha | President                                                  |
+|    High Beta | Internal Vice President (officially First Vice President)  |
+|   High Theta | External Vice President (officially Second Vice President) |
+|   High Gamma | Secretary                                                  |
+|     High Tau | Treasurer                                                  |
+|    High Iota | Risk Manager                                               |
+|     High Rho | Alumni Liaison                                             |
+|   High Kappa | Fraternity Educator                                        |
+|   High Delta | Recruitment Chairman                                       |
+|     High Phi | Ritualist                                                  |
+|   High Sigma | Educational Chairman                                       |
+| High Epsilon | Social Chairman                                            |
 
-In lists of members of the High Zeta, it is customary to include the High Pi
-after the High Rho. When communicating with alumni about the High Zeta, prefer
-corporate titles to Greek titles.
+In lists of members of the High Zeta, it’s customary to include the High Pi
+after the High Epsilon. When communicating with alumni about the High Zeta,
+prefer corporate titles to Greek titles. It’s OK to refer to the High Theta as
+the Philanthropy Chairman.
 
-Code IV-3 provides that a chapter can elect additional officers to its High
-Zeta. These additional officers are ranked below the High Rho according to
-Code IV-4.
+Code 3-1(b) provides that a chapter can elect additional officers to its High
+Zeta. These additional officers are ranked below the High Epsilon according to
+Code 3-1(a).
 
 **homecoming** One word. Note lowercase.
 

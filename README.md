@@ -32,12 +32,12 @@ that uses a different style, use the style of the website.
 
 **associate member** Refers to an uninitiated member of ΛΧΑ who joined in 1972
 or later. Before 1972, such members were referred to as _pledges_. Capitalize
-_associate member_ when it is used as a title.
+_associate member_ when it’s used as a title.
 
 **award** Capitalize only when referring to a specific award.
 
 **brother** Refers to an initiated, as opposed to associate, member of ΛΧΑ. Use
-instead of _member_ whenever possible. Capitalize _brother_ when it is used as a
+instead of _member_ whenever possible. Capitalize _brother_ when it’s used as a
 title.
 
 > The meeting was chaired by Brother George Spasyk ’49. George is a brother from

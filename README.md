@@ -107,7 +107,8 @@ the Philanthropy Chairman.
 
 Code 3‑1(b) provides that a chapter can elect additional officers to its High
 Zeta. These additional officers are ranked below the High Epsilon according to
-Code 3‑1(a).
+Code 3‑1(a). (Code 3‑9 provides for the election of additional officers, but not
+necessarily to the High Zeta.)
 
 **homecoming** One word. Note lowercase.
 

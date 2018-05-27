@@ -81,9 +81,9 @@ _Founders’ Day_.
 
 **Headquarters** Do not use. Use _International Headquarters_ instead.
 
-**High Zeta** Code 3-1(a) of ΛΧΑ’s _Statutory Code_ (43rd edition) defines the
+**High Zeta** Code 3‑1(a) of ΛΧΑ’s _Statutory Code_ (43rd edition) defines the
 High Zeta to include the High Pi (alumni advisor) and the following elected
-officers, ranked according to Code 3-1(a):
+officers, ranked according to Code 3‑1(a):
 
 | Greek Title  | Corporate Title                                            |
 |-------------:|------------------------------------------------------------|
@@ -105,9 +105,9 @@ after the High Epsilon. When communicating with alumni about the High Zeta,
 prefer corporate titles to Greek titles. It’s OK to refer to the High Theta as
 the Philanthropy Chairman.
 
-Code 3-1(b) provides that a chapter can elect additional officers to its High
+Code 3‑1(b) provides that a chapter can elect additional officers to its High
 Zeta. These additional officers are ranked below the High Epsilon according to
-Code 3-1(a).
+Code 3‑1(a).
 
 **homecoming** One word. Note lowercase.
 

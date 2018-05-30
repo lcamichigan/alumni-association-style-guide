@@ -81,11 +81,12 @@ _Founders’ Day_.
 
 **Headquarters** Do not use. Use _International Headquarters_ instead.
 
-**High Zeta** Code 3‑1(a) of ΛΧΑ’s _Statutory Code_ (43rd edition) defines the
-High Zeta to include the High Pi (alumni advisor) and the following elected
-officers, ranked according to Code 3‑1(a):
+**High Zeta** Code 3‑1(a) of ΛΧΑ’s
+[_Statutory Code_](https://www.lambdachi.org/aboutlca-2/policies/) (43rd
+edition) defines the High Zeta to include the High Pi (alumni advisor) and the
+following elected officers, in order of rank:
 
-| Greek Title  | Corporate Title                                            |
+|  Greek Title | Corporate Title                                            |
 |-------------:|------------------------------------------------------------|
 |   High Alpha | President                                                  |
 |    High Beta | Internal Vice President (officially First Vice President)  |
@@ -106,7 +107,7 @@ prefer corporate titles to Greek titles. It’s OK to refer to the High Theta as
 the Philanthropy Chairman.
 
 Code 3‑1(b) provides that a chapter can elect additional officers to its High
-Zeta. These additional officers are ranked below the High Epsilon according to
+Zeta. These additional officers are ranked after the High Epsilon according to
 Code 3‑1(a). (Code 3‑9 provides for the election of additional officers, but not
 necessarily to the High Zeta.)
 

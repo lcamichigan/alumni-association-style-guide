@@ -1,7 +1,7 @@
 # Sigma Alumni Association Style Guide
 
-**501(c)(7)** Refers to a
-[part of section 501(c)](https://en.wikipedia.org/wiki/501(c)_organization#501(c)(7))
+**501(c)(7)** Refers to a [part of section
+501(c)](https://en.wikipedia.org/wiki/501(c)_organization#501(c)(7))
 of the United States Internal Revenue Code that describes certain tax-exempt
 nonprofit organizations. Donations to 501(c)(7) organizations are _not_
 tax-deductible. Use _501(c)(7) organization_, not _501(c)(7)_, when describing
@@ -57,13 +57,15 @@ _Warren A. Cole (Boston 2012)_.
 
 **coat of arms** Note lowercase and absence of hyphenation.
 
+[_Apple Style Guide_]: https://help.apple.com/applestyleguide/
+
 **email** Use the
 [style](https://help.apple.com/applestyleguide/#/apsg076a7313?sub=apd14471f7d0ccc4)
-in the [_Apple Style Guide_](https://help.apple.com/applestyleguide/).
+in the [_Apple Style Guide_].
 
 **email addresses** Use the
 [style](https://help.apple.com/applestyleguide/#/apsg076a7313?sub=apdc5203474e8994)
-in the [_Apple Style Guide_](https://help.apple.com/applestyleguide/).
+in the [_Apple Style Guide_].
 
 **Eventbrite** Not _EventBrite_. [Eventbrite](https://www.eventbrite.com) is a
 service for event ticketing and registration.
@@ -81,10 +83,10 @@ _Founders’ Day_.
 
 **Headquarters** Do not use. Use _International Headquarters_ instead.
 
-**High Zeta** Code 3‑1(a) of ΛΧΑ’s
-[_Statutory Code_](https://www.lambdachi.org/aboutlca-2/policies/) (43rd
-edition) defines the High Zeta to include the High Pi (alumni advisor) and the
-following elected officers, in order of rank:
+**High Zeta** Code 3‑1(a) of ΛΧΑ’s [_Statutory
+Code_](https://www.lambdachi.org/aboutlca-2/policies/) (43rd edition) defines
+the High Zeta to include the High Pi (alumni advisor) and the following
+elected officers, in order of rank:
 
 |  Greek Title | Corporate Title                                            |
 |-------------:|------------------------------------------------------------|
@@ -115,9 +117,8 @@ necessarily to the High Zeta.)
 
 **homepage** Use the
 [style](https://help.apple.com/applestyleguide/#/apsg9dac5903?sub=apd6fa3bd2d784e4)
-in the [_Apple Style Guide_](https://help.apple.com/applestyleguide/). Note that
-this differs from the
-[_Lambda Chi Alpha Style Guide_](https://www.lambdachi.org/fraternity/lca-style-guide/).
+in the [_Apple Style Guide_]. Note that this differs from the [_Lambda Chi Alpha
+Style Guide_](https://www.lambdachi.org/fraternity/lca-style-guide/).
 
 **house** Do not use to refer to the chapter house.
 
@@ -134,7 +135,7 @@ staff.
 
 **internet addresses** Use the
 [style](https://help.apple.com/applestyleguide/#/apsg346ef241?sub=apd6071d685867d4)
-in the [_Apple Style Guide_](https://help.apple.com/applestyleguide/).
+in the [_Apple Style Guide_].
 
 **junior** Always lowercase when referring to the academic year.
 
@@ -202,11 +203,11 @@ _Michigan_ or _U-M_ when _University of Michigan_ is too verbose.
 
 **website** Use the
 [style](https://help.apple.com/applestyleguide/#/apsg48ccd3b3?sub=apdfdd515243aa04)
-in the [_Apple Style Guide_](https://help.apple.com/applestyleguide/).
+in the [_Apple Style Guide_].
 
 **ΖΑΧ** Uppercase, with no periods between letters.
 
 **zeta number** Note lowercase. Write zeta numbers like Sigma 556, or Σ 556 if
-your typeface supports Greek. Use a
-[non-breaking space](https://en.wikipedia.org/wiki/Non-breaking_space) to
-separate the chapter name from the number.
+your typeface supports Greek. Use a [non-breaking
+space](https://en.wikipedia.org/wiki/Non-breaking_space) to separate the chapter
+name from the number.

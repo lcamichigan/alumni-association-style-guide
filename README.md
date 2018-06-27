@@ -59,6 +59,16 @@ _Warren A. Cole (Boston 2012)_.
 
 [_Apple Style Guide_]: https://help.apple.com/applestyleguide/
 
+**dates** Use the
+[style](https://help.apple.com/applestyleguide/#/apsg7af4f5d0?sub=apd1c6b9d44826d4)
+in the [_Apple Style Guide_]. In particular, use ordinal numbers (_1st_, _2nd_,
+_3rd_) only in dates without a month, and don’t use superscript letters in
+ordinal numbers.
+
+_Correct:_ November 2, 1909
+
+_Incorrect:_ November 2<sup>nd</sup>, 1909
+
 **email** Use the
 [style](https://help.apple.com/applestyleguide/#/apsg076a7313?sub=apd14471f7d0ccc4)
 in the [_Apple Style Guide_].

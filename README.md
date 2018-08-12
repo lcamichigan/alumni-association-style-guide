@@ -217,7 +217,7 @@ in the [_Apple Style Guide_].
 
 **ΖΑΧ** Uppercase, with no periods between letters.
 
-**zeta number** Note lowercase. Write zeta numbers like Sigma 556, or Σ 556 if
-your typeface supports Greek. Use a [non-breaking
-space](https://en.wikipedia.org/wiki/Non-breaking_space) to separate the chapter
+**Zeta number** Write Zeta numbers like Sigma 556, or Σ 556 if your typeface
+supports Greek. Use a [non-breaking
+space](https://en.wikipedia.org/wiki/Non-breaking_space) to separate the Zeta
 name from the number.

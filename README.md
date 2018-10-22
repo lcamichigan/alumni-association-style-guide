@@ -13,7 +13,7 @@ Sigma Alumni Association.
 _collegiate brother_ to an undergraduate, and _alumni brother_ to a graduate.
 Use _members_ when referring to brothers and associate members generally.
 
-**alma mater** Note lowercase. Plural is _almae matres_ or _almæ matres_.
+**alma mater** Note lowercase. Plural is _almae matres_.
 
 **alumni association** Capitalize when referring to a specific alumni
 association.
@@ -22,7 +22,7 @@ association.
 > Michigan chapter of ΛΧΑ.
 
 **alumnus (sing.), alumni (pl.)** Note lowercase. Use _almuna_ (sing.) and
-_alumnae_ or _alumnæ_ (pl.) when referring to females. Avoid abbreviating as
+_alumnae_ or _alumnae_ (pl.) when referring to females. Avoid abbreviating as
 _alum_ in formal writing.
 
 **AM** Do not use as an abbreviation of _associate member_.

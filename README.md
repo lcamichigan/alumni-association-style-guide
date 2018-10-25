@@ -22,8 +22,8 @@ association.
 > Michigan chapter of ΛΧΑ.
 
 **alumnus (sing.), alumni (pl.)** Note lowercase. Use _almuna_ (sing.) and
-_alumnae_ or _alumnae_ (pl.) when referring to females. Avoid abbreviating as
-_alum_ in formal writing.
+_alumnae_ (pl.) when referring to females. Avoid abbreviating as _alum_ in
+formal writing.
 
 **AM** Do not use as an abbreviation of _associate member_.
 
